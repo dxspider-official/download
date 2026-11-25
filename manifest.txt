@@ -1,0 +1,8 @@
+baddx
+badip.curated
+badip.global
+badip.torexit
+badip.torrelay
+badnode
+badspotter
+badword
