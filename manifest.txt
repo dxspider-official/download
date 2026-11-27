@@ -3,6 +3,7 @@ badip.curated
 badip.global
 badip.torexit
 badip.torrelay
+badip.vpn
 badnode
 badspotter
 badword
