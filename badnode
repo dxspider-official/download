@@ -9,5 +9,6 @@ bless( {
   PP5BLU => '1024938738',
   VE1CFB => '1677611941',
   XE1FAS => '1276635800',
+  E74C => '1',
   name => 'badnode'
 }, 'DXHash' )
